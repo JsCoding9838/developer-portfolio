@@ -46,6 +46,9 @@ h2 {
   background-repeat: no-repeat;
   background-position: left;
 }
+.experience-area h1 {
+  margin-left: 5%;
+}
 .experience-item {
   width: 40%;
   margin-left: 5%;
